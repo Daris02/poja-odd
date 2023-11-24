@@ -3,7 +3,7 @@ package com.poja.odd.endpoint.event;
 import static java.util.UUID.randomUUID;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-import ac.lou.poja.conf.FacadeIT;
+import com.poja.odd.conf.FacadeIT;
 import com.poja.odd.endpoint.event.gen.UuidCreated;
 import com.poja.odd.repository.DummyUuidRepository;
 import com.fasterxml.jackson.core.JsonProcessingException;
