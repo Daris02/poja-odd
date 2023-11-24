@@ -2,7 +2,7 @@ package com.poja.odd.endpoint.rest.controller;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-import ac.lou.poja.conf.FacadeIT;
+import com.poja.odd.conf.FacadeIT;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 
